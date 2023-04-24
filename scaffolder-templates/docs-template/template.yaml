@@ -48,6 +48,7 @@ spec:
             allowedHosts:
               - github.com
               - source.greenglobal.vn
+              - abc.com
 
   # This template is meant to be used on top of an existing template.
   # By adding the following and fetching from an absolute URL you can
